@@ -82,6 +82,24 @@ teste
     <h2>Hoje</h2>
     <p>Atualmente, o Grupo Escoteiro 123 conta com mais de 60 membros distribuídos entre
        Alcateia, Tropa, Clã e Chefia. Continuamos a viver o lema: <em>"Sempre Alerta!"</em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       ola genteeeeeee
+
   </section>
 
   <footer>
